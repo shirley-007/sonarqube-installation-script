@@ -30,11 +30,11 @@ This repository contains a set of Bash scripts designed to facilitate the instal
     
 4.  Run each script in sequence:
 
-	    sudo bash install sonarqube-install-one.sh
+	    sudo bash sonarqube-install-one.sh
    
 	   After the server restarts:
 
-		sudo bash install sonarqube-install-two.sh
+		sudo bash sonarqube-install-two.sh
 
 5. Access SonarQube via the provided URL.
 
